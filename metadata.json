@@ -1,0 +1,6 @@
+{
+  "name": "RuralHealth",
+  "description": "Healthcare worker dashboard, facility queue, patient records directory, and offline-ready referral tracking system.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
